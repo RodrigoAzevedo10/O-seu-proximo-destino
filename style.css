@@ -1,0 +1,99 @@
+*{
+  margin: 0;
+  Padding: 0; 
+  
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  height: 850px;
+
+}
+
+#hero {
+  width: 1024px;
+  margin:51px auto 32px;
+  font-size: 15px;
+  line-height: 22px;
+  margin-bottom: 77px;
+}
+
+#hero img{
+  margin-bottom: 32px;
+}
+
+h2{
+  font-family: 'Dosis', sans-serif;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: normal;
+  margin-bottom: 16px;
+}
+
+span {
+  color:#EE24FF;
+  font-weight: bold;
+}
+
+.first {
+  color:#3F3D56;
+}
+
+.second {
+  color:#828282;
+}
+.third {
+  color:#3F3D56;
+  font-weight: bold;
+}
+
+span, a{
+  font-weight: bold;
+  margin-bottom: 40px;
+}
+
+a + a{
+  margin-left: 40px;
+}
+
+.line {
+  width: 391px;
+  height: 0px;
+  margin: 0 auto 16px;
+  border: 1px solid #ECEFF2;
+
+}
+
+a {
+  text-decoration: none;
+  font-weight: 700;
+  color: #3F3D56;
+  font-size: 15px;
+  line-height: 147.68%;
+}
+
+.footer {
+  margin: 50px auto 41px;
+
+ 
+}
+
+.footer a + a {
+  margin-left: 42px;
+ 
+
+
+}
+
+#wave {
+  Height: 230px;
+  Width: 100%;
+  background-image: url(images/wave.svg);
+  margin-bottom: 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  bottom: 0;
+}
+  
